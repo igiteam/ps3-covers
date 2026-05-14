@@ -1,2 +1,6 @@
 
 *.ods#
+
+# Local Netlify folder
+.netlify
+venv
