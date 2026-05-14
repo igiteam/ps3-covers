@@ -3,4 +3,6 @@
 
 # Local Netlify folder
 .netlify
+venv/
+.env
 venv
